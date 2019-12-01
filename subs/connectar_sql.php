@@ -2,7 +2,7 @@
 
 	$serverName 	= 'W7-PC\SQL';  //Instancia del SQL Server
 
-	$conectionInfo	= array("Database"=>'ZKAccess', "UID"=>"beto", "PWD"=>"x13032000", "CharacterSet"=>"UTF-8");
+	$conectionInfo	= array("Database"=>'ZKAccess', "UID"=>"beto", "PWD"=>"x", "CharacterSet"=>"UTF-8");
 	/*
 		Datos para la conexión
 		Database => Bases de datos a la q nos vamos a conectar
